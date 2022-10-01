@@ -1,2 +1,2 @@
-cry command wget -o /tmp/cry.sh https://jacobjuneau6.github.io/Package_manager/cry.sh && bash /tmp/cry.sh 
+cry%command%wget -o /tmp/cry.sh https://jacobjuneau6.github.io/Package_manager/cry.sh && bash /tmp/cry.sh 
 #https://jacobjuneau6.github.io/Package_manager/cry.gz 
